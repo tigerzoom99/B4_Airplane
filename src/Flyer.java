@@ -9,6 +9,7 @@ public class Flyer {
 		
 		// might loop "start questions, go again, exit"
 		AirplaneQuestions myQuestions = new AirplaneQuestions();
+		System.out.println("myQuestions instantiated");
 		
 		// with the answers to the above questions, tell which airplane it might be, and for now rule out planes it can't be
 		
