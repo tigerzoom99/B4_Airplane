@@ -3,6 +3,8 @@ public class Flyer {
 	
 	public static void main(String[] args){
 		
+		System.out.println("entered main, to begin my program");
+		
 		Flyer startProgram = new Flyer();
 		startProgram.createAirplaneData();
 		System.out.println("Start Program was successful");
